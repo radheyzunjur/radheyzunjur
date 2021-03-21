@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radheyzunjur
-- 👀 I’m interested in coding and content writing
+- 👀 I’m interested in Coding and Content Writing
 - 🌱 I’m currently learning MCS (Computer Science)
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
