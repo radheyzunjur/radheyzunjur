@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
 -   Email id - radheyzunjur77@gmail.com
+-   LinkedIn id- https://www.linkedin.com/in/radheyzunjur/
 -   Contact no - 7798777971
 
 <!---
