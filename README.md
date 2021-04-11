@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 -   Email id - radheyzunjur77@gmail.com
 -   LinkedIn id- https://www.linkedin.com/in/radheyzunjur/
--   Contact no - 7798777971
+-   
 
 <!---
 radheyzunjur/radheyzunjur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
