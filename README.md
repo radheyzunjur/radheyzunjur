@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radheyzunjur
 - 👀 I’m interested in Coding and Content Writing
-- 🌱 I’m currently learning MCS (Computer Science)
+- 🌱 I’m currently pursuing MCS (Computer Science)
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
 -   Email id - radheyzunjur77@gmail.com
