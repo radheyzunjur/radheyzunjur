@@ -13,4 +13,3 @@ radheyzunjur/radheyzunjur is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Microsoft_Azure-Logo wine](https://github.com/radheyzunjur/radheyzunjur/assets/72388543/456624cd-e220-4940-b099-01c7059d139d)
